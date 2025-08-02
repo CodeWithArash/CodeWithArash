@@ -1,5 +1,12 @@
 ## Hi there, I'm Arash👋
 
+I’m a data analyst with a background in engineering and a deep passion for turning raw data into meaningful, actionable insights.
+I work with Python (Pandas, NumPy, Matplotlib), SQL, and Tableau to explore data, find hidden patterns, and support smarter decision-making. Whether it’s cleaning messy datasets, building clear visual dashboards, or writing complex queries, I enjoy making data come to life.
+I believe in the power of data to drive growth, reduce uncertainty, and tell impactful stories. I’m constantly learning, improving my BI and data modeling skills, and keeping up with the fast-evolving data world.
+I’m currently exploring new opportunities where I can apply my data skills to solve real-world problems and help businesses grow.
+
+Let’s connect!
+
 <!--
 **CodeWithArash/CodeWithArash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
